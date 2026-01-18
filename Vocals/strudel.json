@@ -1,0 +1,15 @@
+{
+  "vox_kick": "kick/**/*.wav",
+  "vox_snare": "snare/**/*.wav",
+  "vox_hihat": "hihat/**/*.wav",
+  "vox_cymbal": "cymbal/**/*.wav",
+  "vox_perc": "percussion/**/*.wav",
+  "vox_bass": "bass/**/*.wav",
+  "vox_synth": "synth/**/*.wav",
+  "vox_keys": "keys/**/*.wav",
+  "vox_pad": "pad/**/*.wav",
+  "vox_lead": "lead/**/*.wav",
+  "vox_fx": "fx/**/*.wav",
+  "vox_vocal": "vocal/**/*.wav",
+  "vox_loop": "loop/**/*.wav"
+}

@@ -1,0 +1,15 @@
+{
+  "hx_kick": "kick/**/*.wav",
+  "hx_snare": "snare/**/*.wav",
+  "hx_hihat": "hihat/**/*.wav",
+  "hx_cymbal": "cymbal/**/*.wav",
+  "hx_perc": "percussion/**/*.wav",
+  "hx_bass": "bass/**/*.wav",
+  "hx_synth": "synth/**/*.wav",
+  "hx_keys": "keys/**/*.wav",
+  "hx_pad": "pad/**/*.wav",
+  "hx_lead": "lead/**/*.wav",
+  "hx_fx": "fx/**/*.wav",
+  "hx_vocal": "vocal/**/*.wav",
+  "hx_loop": "loop/**/*.wav"
+}
